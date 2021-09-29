@@ -33,7 +33,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>React hw 2 - Feedback </h1>
+      <h1>React hw 2 - Hook Feedback </h1>
       <Container>
         <Section title="Please leave feedback">
           <FeedbackOptions
