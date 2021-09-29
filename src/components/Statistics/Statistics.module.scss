@@ -1,0 +1,15 @@
+.statisticsList {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+
+.statisticsItem {
+  margin-bottom: 10px;
+
+  .statisticsText {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.18;
+  }
+}
